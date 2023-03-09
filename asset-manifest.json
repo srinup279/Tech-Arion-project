@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Tech-Arion-project/static/css/main.d99f5b22.css",
+    "main.js": "/Tech-Arion-project/static/js/main.44303e08.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Tech-Arion-project/static/js/787.28cb0dcd.chunk.js",
+    "static/media/unsplash_1.png": "/Tech-Arion-project/static/media/unsplash_1.5f4304b8aca91e542010.png",
+    "static/media/unsplash_3.png": "/Tech-Arion-project/static/media/unsplash_3.8c2d09e593f7b111b8d5.png",
+    "static/media/unsplash_2.png": "/Tech-Arion-project/static/media/unsplash_2.7ad7893b35985726b844.png",
+    "static/media/delight_cup.png": "/Tech-Arion-project/static/media/delight_cup.9e60e743437b9ee5f167.png",
+    "static/media/Modern_Chair1.png": "/Tech-Arion-project/static/media/Modern_Chair1.4cdb4f7c5469a078b2ae.png",
+    "static/media/Modern_Chair2.png": "/Tech-Arion-project/static/media/Modern_Chair2.a287231f5a7713777742.png",
+    "static/media/circle_img.png": "/Tech-Arion-project/static/media/circle_img.7d6a042ab4c92222b167.png",
+    "index.html": "/Tech-Arion-project/index.html",
+    "main.d99f5b22.css.map": "/Tech-Arion-project/static/css/main.d99f5b22.css.map",
+    "main.44303e08.js.map": "/Tech-Arion-project/static/js/main.44303e08.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Tech-Arion-project/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d99f5b22.css",
+    "static/js/main.44303e08.js"
+  ]
+}
